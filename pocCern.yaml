@@ -24,7 +24,7 @@ paths:
       - somettext
       operationId: findAccounts
       summary: this is example text
-  "/cern-poc-example":
+  "/malformed-cern-poc-example":
     delete:
       parameters:
       - description: |
